@@ -1,5 +1,7 @@
 # Triangle Scan Method (TSM)
 
+[Youtube link](https://www.youtube.com/watch?v=7BjCjCdQG1I)
+
 The triangle scan method is a 2-step process which determines the central crop row from a semantic skeleton segmentation of a crop row. The first step (Anchor Scan) and the second step (Line Scan) scan for the topmost (Anchor Point) and the lowermost ($P_{r}$) points of the central crop row respectively. The anchor point $A$ and point $P_{r}$ always lie on the top and bottom edges of the image respectively. Please refer the [TSM documentation](https://github.com/rajithadesilva/TSM/blob/main/media/tsm.md) for further details.
 
 <figure>
