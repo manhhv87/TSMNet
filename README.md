@@ -59,6 +59,6 @@ python triangle_scan_rgb.py --file_type=".png"
 }
 ```
 
-Link to full paper: [Deep learning‐based crop row detection for infield navigation of agri‐robots]([https://arxiv.org/pdf/2209.14003.pdf](https://arxiv.org/ftp/arxiv/papers/2209/2209.04278.pdf))
+Link to full paper: [Deep learning‐based crop row detection for infield navigation of agri‐robots](https://arxiv.org/ftp/arxiv/papers/2209/2209.04278.pdf)
 
 ## Licence: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
